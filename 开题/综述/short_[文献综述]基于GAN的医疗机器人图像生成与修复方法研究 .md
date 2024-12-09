@@ -127,21 +127,20 @@
 
 [4]李奇轩,张钒,奚谦逸,焦竹青,倪昕晔.医疗超声机器人的研究进展[J].中国医疗设备,2022,37(8):21-2461
 
-[5]Hu S, Lu R, Zhu Y, Zhu W, Jiang H, Bi S. Application of Medical Image Navigation Technology in Minimally Invasive Puncture Robot. Sensors. 2023; 23(16):7196. https://doi.org/10.3390/s23167196
 
-[6]Gegenfurtner, A., Kok, E., van Geel, K., de Bruin, A., Jarodzka, H., Szulewski, A., & van Merriënboer, J. J. (2017). The challenges of studying visual expertise in medical image diagnosis. Medical education, 51(1), 97–104. https://doi.org/10.1111/medu.13205
+[5] Hu S, Lu R, Zhu Y, Zhu W, Jiang H, Bi S. Application of Medical Image Navigation Technology in Minimally Invasive Puncture Robot[J]. Sensors, 2023, 23(16): 7196. DOI: 10.3390/s23167196.
 
-[7]Diana Miranda, Veena Thenkanidiyoor, Dileep Aroor Dinesh,Detecting the modality of a medical image using visual and textual features,Biomedical Signal Processing and Control,Volume 79, Part 1,2023,104035,
-ISSN 1746-8094,https://doi.org/10.1016/j.bspc.2022.104035.
+[6] Gegenfurtner A, Kok E, van Geel K, de Bruin A, Jarodzka H, Szulewski A, van Merriënboer JJ. The challenges of studying visual expertise in medical image diagnosis[J]. Medical Education, 2017, 51(1): 97-104. DOI: 10.1111/medu.13205.
 
-[8]Tang Y, Qiu J, Gao M. Fuzzy Medical Computer Vision Image Restoration and Visual Application. Comput Math Methods Med. 2022 Jun 21;2022:6454550. doi: 10.1155/2022/6454550. PMID: 35774301; PMCID: PMC9239814.
+[7] Miranda D, Thenkanidiyoor V, Dinesh DA. Detecting the modality of a medical image using visual and textual features[J]. Biomedical Signal Processing and Control, 2023, 79(1): 104035. ISSN: 1746-8094. DOI: 10.1016/j.bspc.2022.104035.
 
-[9]Liu, Shuqin. Study on Medical Image Enhancement Based on Wavelet Transform  Fusion Algorithm,April 2017Journal of Medical Imaging and Health Informatics 7(2):388-392
-DOI:10.1166/jmihi.2017.2063
+[8] Tang Y, Qiu J, Gao M. Fuzzy Medical Computer Vision Image Restoration and Visual Application[J]. Computational and Mathematical Methods in Medicine, 2022. DOI: 10.1155/2022/6454550. PMID: 35774301; PMCID: PMC9239814.
 
-[10]Qi, G., Shen, S., & Ren, P. (2017). Medical Image Enhancement Algorithm Based on Improved Contourlet. Journal of Medical Imaging and Health Informatics, 7, 962-967.
+[9] Liu S. Study on Medical Image Enhancement Based on Wavelet Transform Fusion Algorithm[J]. Journal of Medical Imaging and Health Informatics, 2017, 7(2): 388-392. DOI: 10.1166/jmihi.2017.2063.
 
-[11]Li, J., Zeng, X., & Su, J. (2019). Medical Image Enhancement Algorithm Based on Biorthogonal Wavelet. Acta Microscopica, 28.
+[10] Qi G, Shen S, Ren P. Medical Image Enhancement Algorithm Based on Improved Contourlet[J]. Journal of Medical Imaging and Health Informatics, 2017, 7: 962-967.
+
+[11] Li J, Zeng X, Su J. Medical Image Enhancement Algorithm Based on Biorthogonal Wavelet[J]. Acta Microscopica, 2019, 28.
 
 
 
@@ -156,35 +155,34 @@ DOI:10.1166/jmihi.2017.2063
 
 [16]刘庆俞,刘磊,陈磊,肖强.基于生成对抗网络的图像修复研究[J].黑龙江工业学院学报（综合版）,2023,23(10):89-94
 
-[17]Iacono, Paolo & Khan, Naimul. (2023). Structure Preserving Cycle-GAN for Unsupervised Medical Image Domain Adaptation. 10.32920/22734377. 
+[17] Iacono P, Khan N. Structure Preserving Cycle-GAN for Unsupervised Medical Image Domain Adaptation[J]. 2023. DOI: 10.32920/22734377.
 
-[18]Chen, Y., Lin, H., Zhang, W., Chen, W., Zhou, Z., Heidari, A.A., Chen, H., & Xu, G. (2024). ICycle-GAN: Improved cycle generative adversarial networks for liver medical image generation. Biomed. Signal Process. Control., 92, 106100.
+[18] Chen Y, Lin H, Zhang W, Chen W, Zhou Z, Heidari AA, Chen H, Xu G. ICycle-GAN: Improved cycle generative adversarial networks for liver medical image generation[J]. Biomed Signal Process Control, 2024, 92: 106100.
 
-[19]Xin, B., Young, T., Wainwright, C.E., Blake, T., Lebrat, L., Gaass, T., Benkert, T., Stemmer, A., Coman, D., & Dowling, J. (2024). Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs. ArXiv, abs/2408.09432.
+[19] Xin B, Young T, Wainwright CE, Blake T, Lebrat L, Gaass T, Benkert T, Stemmer A, Coman D, Dowling J. Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs[EB/OL]. ArXiv, 2024. DOI: abs/2408.09432.
 
-[20]Hung, A.L.Y.; Zhao, K.; Zheng, H.; Yan, R.; Raman, S.S.; Terzopoulos, D.; Sung, K. Med-cDiff: Conditional Medical Image Generation with Diffusion Models. Bioengineering 2023, 10, 1258. https://doi.org/10.3390/bioengineering10111258
+[20] Hung ALY, Zhao K, Zheng H, Yan R, Raman SS, Terzopoulos D, Sung K. Med-cDiff: Conditional Medical Image Generation with Diffusion Models[J]. Bioengineering, 2023, 10(11): 1258. DOI: 10.3390/bioengineering10111258.
 
-[21]Ren, Z., Yu, S. X., & Whitney, D. (2021). Controllable Medical Image Generation via Generative Adversarial Networks. IS&T International Symposium on Electronic Imaging, 33, art00003. https://doi.org/10.2352/issn.2470-1173.2021.11.hvei-112
+[21] Ren Z, Yu SX, Whitney D. Controllable Medical Image Generation via Generative Adversarial Networks[C]//IS&T International Symposium on Electronic Imaging. 2021, 33: art00003. DOI: 10.2352/issn.2470-1173.2021.11.hvei-112.
 
-[22]Ren, Z., Yu, S. X., & Whitney, D. (2021). Controllable Medical Image Generation via Generative Adversarial Networks. IS&T International Symposium on Electronic Imaging, 33, art00003. https://doi.org/10.2352/issn.2470-1173.2021.11.hvei-112
+[22] Ren Z, Yu SX, Whitney D. Controllable Medical Image Generation via Generative Adversarial Networks[C]//IS&T International Symposium on Electronic Imaging. 2021, 33: art00003. DOI: 10.2352/issn.2470-1173.2021.11.hvei-112.
 
-[23]Ren, Z., Yu, S. X., & Whitney, D. (2022). Controllable Medical Image Generation via GAN. Journal of perceptual imaging, 5, 0005021–50215. https://doi.org/10.2352/j.percept.imaging.2022.5.000502
+[23] Ren Z, Yu SX, Whitney D. Controllable Medical Image Generation via GAN[J]. Journal of Perceptual Imaging, 2022, 5: 0005021–50215. DOI: 10.2352/j.percept.imaging.2022.5.000502.
 
-[24]Singh, Nripendra & Raza, Khalid. (2021). Medical Image Generation Using Generative Adversarial Networks: A Review. 10.1007/978-981-15-9735-0_5. 
+[24] Singh N, Raza K. Medical Image Generation Using Generative Adversarial Networks: A Review[M]//Advances in Computer Vision and Pattern Recognition. Singapore: Springer, 2021: 67-82. DOI: 10.1007/978-981-15-9735-0_5.
 
-[25]Devi, M. & Kamal, Suganthi. (2021). Review of Medical Image Synthesis using GAN Techniques. ITM Web of Conferences. 37. 01005. 10.1051/itmconf/20213701005. 
+[25] Devi M, Kamal S. Review of Medical Image Synthesis using GAN Techniques[C]//ITM Web of Conferences. 2021, 37: 01005. DOI: 10.1051/itmconf/20213701005.
 
 [26]黄玄曦,张健毅,杨涛,ZHANG Fangjiao.生成对抗网络在医学图像生成中的应用[J].北京电子科技学院学报,2020,28(4):36-48
 
-[27]Krishna, A., & Mueller, K. (2019). Medical (CT) image generation with style. 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine.
+[27] Krishna A, Mueller K. Medical (CT) image generation with style[C]//15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine. 2019.
 
-[28]Euijin Jung, Miguel Luna, and Sang Hyun Park. 2021. Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation. In Medical Image Computing and Computer Assisted Intervention – MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part VI. Springer-Verlag, Berlin, Heidelberg, 318–328. https://doi.org/10.1007/978-3-030-87231-1_31
+[28] Jung Euijin, Luna Miguel, Park Sang Hyun. Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation[C]//Medical Image Computing and Computer Assisted Intervention – MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part VI. Berlin, Heidelberg: Springer-Verlag, 2021: 318-328.
 
-[29]Fu, B., Zhang, X., Wang, L., Ren, Y., & Thanh, D. N. H. (2022). A blind medical image denoising method with noise generation network. Journal of X-ray science and technology, 30(3), 531–547. https://doi.org/10.3233/XST-211098
+[29] Fu B, Zhang X, Wang L, Ren Y, Thanh D N H. A blind medical image denoising method with noise generation network[J]. Journal of X-ray science and technology, 2022, 30(3): 531-547.
 
-[30]Andreini, P., Ciano, G., Bonechi, S., Graziani, C., Lachi, V., Mecocci, A., Sodi, A., Scarselli, F., & Bianchini, M. (2022). A Two-Stage GAN for High-Resolution Retinal Image Generation and Segmentation. Electronics, 11(1), 60. https://doi.org/10.3390/electronics11010060
+[30] Andreini P, Ciano G, Bonechi S, Graziani C, Lachi V, Mecocci A, Sodi A, Scarselli F, Bianchini M. A Two-Stage GAN for High-Resolution Retinal Image Generation and Segmentation[J]. Electronics, 2022, 11(1): 60.
 
-[31]Qasim, A.B., Ezhov, I., Shit, S., Schoppe, O., Paetzold, J.C., Sekuboyina, A., Kofler, F., Lipkova, J., Li, H. &amp; Menze, B.. (2020). Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective.. Proceedings of the Third Conference on Medical Imaging with Deep Learning, in Proceedings of Machine Learning Research 121:655-668. https://proceedings.mlr.press/v121/qasim20a.html.
+[31] Qasim A B, Ezhov I, Shit S, Schoppe O, Paetzold J C, Sekuboyina A, Kofler F, Lipkova J, Li H, Menze B. Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective[C]//Proceedings of the Third Conference on Medical Imaging with Deep Learning, in Proceedings of Machine Learning Research. 2020, 121: 655-668.
 
-
-[32]Guo, Kehua & Chen, Jie & Qiu, Tian & Guo, Shaojun & Luo, Tao & Chen, Tianyu & Ren, Sheng. (2023). MedGAN: An adaptive GAN approach for medical image generation. Computers in Biology and Medicine. 163. 107119. 10.1016/j.compbiomed.2023.107119. 
+[32] Guo Kehua, Chen Jie, Qiu Tian, Guo Shaojun, Luo Tao, Chen Tianyu, Ren Sheng. MedGAN: An adaptive GAN approach for medical image generation[J]. Computers in Biology and Medicine, 2023, 163: 107119.

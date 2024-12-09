@@ -104,7 +104,7 @@
 
 [4] 李奇轩,张钒,奚谦逸,焦竹青,倪昕晔.医疗超声机器人的研究进展[J].中国医疗设备,2022,37(8):21-2461
 
-[5] Hu S, Lu R, Zhu Y, Zhu W, Jiang H, Bi S. Application of Medical Image Navigation Technology in Minimally Invasive Puncture Robot. Sensors. 2023; 23(16):7196. https://doi.org/10.3390/s23167196
+[5] Hu S, Lu R, Zhu Y, Zhu W, Jiang H, Bi S. Application of Medical Image Navigation Technology in Minimally Invasive Puncture Robot[J]. Sensors, 2023, 23(16): 7196. DOI: 10.3390/s23167196.
 
 
 [6] 彭泊词,邵一峰.生成对抗网络研究及应用[J].现代计算机,2020,26(27):42-48
@@ -114,15 +114,14 @@
 [8] 于文家,樊国政,左昱昊,陈怡丹.生成对抗网络研究综述[J].电脑编程技巧与维护,2023(5):174-176
 
 
-[9] Krishna, A., & Mueller, K. (2019). Medical (CT) image generation with style. 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine.
+[9] Krishna A, Mueller K. Medical (CT) image generation with style[C]//15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine. 2019.
 
-[10] Euijin Jung, Miguel Luna, and Sang Hyun Park. 2021. Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation. In Medical Image Computing and Computer Assisted Intervention – MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part VI. Springer-Verlag, Berlin, Heidelberg, 318–328. https://doi.org/10.1007/978-3-030-87231-1_31
+[10] Jung Euijin, Luna Miguel, Park Sang Hyun. Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation[C]//Medical Image Computing and Computer Assisted Intervention – MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part VI. Berlin, Heidelberg: Springer-Verlag, 2021: 318-328.
 
-[11] Fu, B., Zhang, X., Wang, L., Ren, Y., & Thanh, D. N. H. (2022). A blind medical image denoising method with noise generation network. Journal of X-ray science and technology, 30(3), 531–547. https://doi.org/10.3233/XST-211098
+[11]Fu B, Zhang X, Wang L, Ren Y, Thanh D N H. A blind medical image denoising method with noise generation network[J]. Journal of X-ray science and technology, 2022, 30(3): 531-547.
 
-[12] Andreini, P., Ciano, G., Bonechi, S., Graziani, C., Lachi, V., Mecocci, A., Sodi, A., Scarselli, F., & Bianchini, M. (2022). A Two-Stage GAN for High-Resolution Retinal Image Generation and Segmentation. Electronics, 11(1), 60. https://doi.org/10.3390/electronics11010060
+[12] Andreini P, Ciano G, Bonechi S, Graziani C, Lachi V, Mecocci A, Sodi A, Scarselli F, Bianchini M. A Two-Stage GAN for High-Resolution Retinal Image Generation and Segmentation[J]. Electronics, 2022, 11(1): 60.
 
-[13] Qasim, A.B., Ezhov, I., Shit, S., Schoppe, O., Paetzold, J.C., Sekuboyina, A., Kofler, F., Lipkova, J., Li, H. &amp; Menze, B.. (2020). Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective.. Proceedings of the Third Conference on Medical Imaging with Deep Learning, in Proceedings of Machine Learning Research 121:655-668. https://proceedings.mlr.press/v121/qasim20a.html.
+[13] Qasim A B, Ezhov I, Shit S, Schoppe O, Paetzold J C, Sekuboyina A, Kofler F, Lipkova J, Li H, Menze B. Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective[C]//Proceedings of the Third Conference on Medical Imaging with Deep Learning, in Proceedings of Machine Learning Research. 2020, 121: 655-668.
 
-
-[14] Guo, Kehua & Chen, Jie & Qiu, Tian & Guo, Shaojun & Luo, Tao & Chen, Tianyu & Ren, Sheng. (2023). MedGAN: An adaptive GAN approach for medical image generation. Computers in Biology and Medicine. 163. 107119. 10.1016/j.compbiomed.2023.107119.
+[14] Guo Kehua, Chen Jie, Qiu Tian, Guo Shaojun, Luo Tao, Chen Tianyu, Ren Sheng. MedGAN: An adaptive GAN approach for medical image generation[J]. Computers in Biology and Medicine, 2023, 163: 107119.
